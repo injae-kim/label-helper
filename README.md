@@ -39,7 +39,7 @@ label-helper
 
 2. #### 레이블링을 진행할 데이터 불러오기
 
-![](/home/helios789/label-helper/readme/data1.jpg)
+![](./readme/data1.jpg)
 
 ​	`/src/data/origin` 폴더에 레이블링을 진행할 원본 이미지를 넣어주세요.
 
@@ -53,7 +53,7 @@ label-helper
    $ python3 label.py	# 레이블링 실행
    ```
 
-   ![](/home/helios789/label-helper/readme/data-location.jpg)
+   ![](./readme/data-location.jpg)
 
    - 사각형을 드래그 하여 움직일 수 있습니다
    - 사각형의 가장자리를 드래그 하여 사각형의 크기를 자유롭게 조절할 수 있습니다
